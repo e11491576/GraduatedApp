@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".screen.SingleModeActivity"></activity>
+        <activity android:name=".screen.MutipleModeActivity"></activity>
+        <activity android:name=".screen.RuleModeActivity"></activity>
+        <activity android:name=".screen.SettingModeActivity"></activity>
     </application>
 
 </manifest>
